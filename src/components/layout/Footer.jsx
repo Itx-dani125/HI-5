@@ -17,8 +17,7 @@ const Footer = () => {
               />
             </div>
             <p className="text-gray-400 text-sm leading-relaxed mb-6 max-w-xs">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy.
+             Greetings from our recruitment and staffing sector, where opportunity and talent meet on all continents! Originally based in lively American cities, we extended our reach to include Qatar, bringing our staffing and recruitment experience in HR to the center of the Middle East.
             </p>
 
             {/* Social Media Icons */}

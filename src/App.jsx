@@ -10,7 +10,7 @@ import Services from './pages/Services'
 import Capabilities from './pages/Capabilities'
 import Contact from './pages/Contact'
 import JobDetailPage from './pages/JobDetailPage'
-import About from './pages/About';
+
 
 function App() {
    
@@ -24,10 +24,7 @@ function App() {
             path:'/',
             element: <Home />
           },
-          {
-            path:'/about',
-            element: <About />
-          },
+        
           {
             path:'/industries',
             element: <Industries />

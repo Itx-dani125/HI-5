@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { Link } from 'react-router-dom'
 const TakeCare = () => {
   return (
   <div className="container py-16">
@@ -16,7 +16,7 @@ const TakeCare = () => {
     <p className='w-full max-w-xl'>
       We prioritize our clients' needs with utmost dedication and professionalism. Our team is committed to delivering exceptional service and ensuring your complete satisfaction throughout our partnership.
     </p>
-    <button className='solid-btn'>Contact Us</button>
+    <Link to='/contact' className='solid-btn'>Contact Us</Link>
   </div>
 </div>
   </div>

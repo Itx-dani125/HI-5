@@ -1,0 +1,17 @@
+import React from 'react'
+import Navbar from './Navbar'
+import Footer from './Footer'
+import Home from '../../pages/Home'
+import { Outlet } from 'react-router-dom'
+
+const Applayout = () => {
+  return (
+    <div>
+        <Navbar />
+        <Outlet />
+        <Footer />
+    </div>
+  )
+}
+
+export default Applayout

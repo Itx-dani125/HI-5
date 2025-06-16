@@ -16,7 +16,10 @@ const Explore = () => {
               We are a client-needs driven company
             </h1>
             <p className='w-full sm:w-[85%] lg:w-[65%] mx-auto lg:ml-[24%] leading-7 sm:leading-8 lg:leading-9 text-sm sm:text-base px-4 lg:px-0 text-center lg:text-left'>
-              Our job is to make sure that you have the peace of mind when hiring an individual while working on securing a permanent contract with different agencies. Our reach goes out to different industries and business realms through which we have made a trustworthy network of professional candidates filling in the in-demand jobs. Our network spans across the USA as well, connected to enterprises, small or large, making sure we provide the best recruiting consulting services with the best.
+             At the core of our mission is a commitment to ensuring your peace of mind when hiring the right talent — especially while securing long-term contracts with various agencies. We understand that each client has unique requirements, and our role is to align those needs with top-tier candidates who are both capable and trustworthy.
+            </p>
+            <p className='w-full sm:w-[85%] lg:w-[65%] mx-auto lg:ml-[24%] leading-7 sm:leading-8 lg:leading-9 text-[15px] sm:text-[15px] px-4 lg:px-0 text-center lg:text-left'>
+            Our reach spans multiple industries and business sectors, supported by a reliable network of experienced professionals ready to fill high-demand roles. From startups to established enterprises, we have built strong connections that allow us to deliver customized recruitment solutions with consistency and integrity
             </p>
           </div>
         </div>

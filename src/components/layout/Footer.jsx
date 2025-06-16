@@ -62,7 +62,7 @@ const Footer = () => {
                   to="/services"
                   className="text-gray-400 hover:text-white text-sm transition-colors duration-200"
                 >
-                  Social Media Marketing
+                  Permanent Recruitment (Direct Hire)
                 </Link>
               </li>
               <li>
@@ -70,7 +70,7 @@ const Footer = () => {
                   to="/services"
                   className="text-gray-400 hover:text-white text-sm transition-colors duration-200"
                 >
-                  Development
+                  Temporary/Contract Staffing
                 </Link>
               </li>
               <li>
@@ -78,7 +78,7 @@ const Footer = () => {
                   to="/services"
                   className="text-gray-400 hover:text-white text-sm transition-colors duration-200"
                 >
-                  SEO
+                 Executive Search (Headhunting)
                 </Link>
               </li>
               <li>
@@ -86,7 +86,15 @@ const Footer = () => {
                   to="/services"
                   className="text-gray-400 hover:text-white text-sm transition-colors duration-200"
                 >
-                  Graphic Design
+                 Recruitment Process Outsourcing (RPO)
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to="/services"
+                  className="text-gray-400 hover:text-white text-sm transition-colors duration-200"
+                >
+               Talent Mapping & Market Research
                 </Link>
               </li>
             </ul>

@@ -3,6 +3,7 @@ import "@radix-ui/themes/styles.css";
 
 import Applayout from './components/layout/Applayout'
 import Home from './pages/Home'
+
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Industries from './pages/Industries'
 import Jobs from './pages/Jobs'
@@ -10,6 +11,7 @@ import Services from './pages/Services'
 import Capabilities from './pages/Capabilities'
 import Contact from './pages/Contact'
 import JobDetailPage from './pages/JobDetailPage'
+import About from './pages/AboutUs';
 
 
 function App() {
@@ -23,6 +25,10 @@ function App() {
           {
             path:'/',
             element: <Home />
+          },
+          {
+            path:'/about',
+            element : <About />
           },
         
           {
